@@ -24,12 +24,14 @@
    - Enter a value out of range in Batting/Bowling/Toss
    - Enter any lowercase value of the specified string
 - Screenshots
-1. ![Screenshot 2026-09-30 175027.png](../../../OneDrive/Pictures/Screenshots%201/Screenshot%202026-09-30%20175027.png)
-2. ![Screenshot 2026-09-30 175041.png](../../../OneDrive/Pictures/Screenshots%201/Screenshot%202026-09-30%20175041.png)
-3. ![Screenshot 2026-09-30 175103.png](../../../OneDrive/Pictures/Screenshots%201/Screenshot%202026-09-30%20175103.png)
-4. ![Screenshot 2026-09-30 175116.png](../../../OneDrive/Pictures/Screenshots%201/Screenshot%202026-09-30%20175116.png)
-5. ![Screenshot 2026-09-30 175128.png](../../../OneDrive/Pictures/Screenshots%201/Screenshot%202026-09-30%20175128.png)
-6. ![Screenshot 2026-09-30 175132.png](../../../OneDrive/Pictures/Screenshots%201/Screenshot%202026-09-30%20175132.png)
+  1. <img width="588" height="450" alt="Screenshot 2026-09-30 175027" src="https://github.com/user-attachments/assets/1aa42b20-a616-4295-91b1-c2516e4d8225" />
+  2. <img width="579" height="486" alt="Screenshot 2026-09-30 175041" src="https://github.com/user-attachments/assets/ec500695-07bb-469e-97b7-1553e2aa8d50" />
+  3. <img width="555" height="570" alt="Screenshot 2026-09-30 175103" src="https://github.com/user-attachments/assets/f22804af-68b1-4ff3-808b-d9328519532d" />
+  4. <img width="564" height="430" alt="Screenshot 2026-09-30 175116" src="https://github.com/user-attachments/assets/9545c1cf-9946-47ae-aebb-85c902b26657" />
+  5. <img width="574" height="533" alt="Screenshot 2026-09-30 175128" src="https://github.com/user-attachments/assets/abbf8a40-44f0-4b74-b1f1-b6cfc16dcd3d" />
+  6. <img width="444" height="184" alt="Screenshot 2026-09-30 175132" src="https://github.com/user-attachments/assets/99a77668-ab5a-4827-bde8-20eac1ed7654" />
+
+
 
 
 
